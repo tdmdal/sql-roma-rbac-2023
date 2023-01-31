@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+  render: 
+    - "*.qmd"
+  resources:
+    - "*.ipynb"
+
+website:
+  title: "ROMA & RBAC SQL Workshop (Spring 2023)"
+  search: false
+  navbar:
+    right:
+      - text: Home
+        file: index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

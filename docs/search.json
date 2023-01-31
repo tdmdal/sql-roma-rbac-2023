@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SQL Intro",
+    "section": "",
+    "text": "SQL is a data query and management language for relational databases. A solid knowledge of SQL is a must for big data analytics at the enterprise level. In this workshop, you will learn the basics of SQL and relational databases. You will also get hands-on exercises to write simple SQL queries against a mini-DuckDB database.\n\n\nSlides\n\nIntro to SQL\n\n\n\nCode\n\nNotebook for SQL Intro (with DuckDB) ()\n\n\n\nResources\n\nLearn SQL: SQL Tutorial for Beginners by programiz\nIntroduction to Databases and SQL by programiz\nLearning SQL Programming by Scott Simpson on LinkedIn Learning (1h 27m).\nNote that LinkedIn Learning is not free for UofT students. However, one of the following options can get you free access to this course.\n\nApply for a free Toronto Public Library card, and login LinkedIn Learning via the library site. (You can get Toronto Public Library’s Digital Access Card without visiting a library branch.)\nIf you are a UofT graduate, you could register here at UofT alumni site to get free access to LinkedIn Learning from until 2023/04/19.\n\nSQL for Data Analysis at Udacity\n\n\nBack to TDMDAL Computing Page"
+  }
+]

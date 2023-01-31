@@ -1,0 +1,34 @@
+---
+title: "SQL Intro"
+---
+
+SQL is a data query and management language for relational databases. A solid knowledge of SQL is a must for big data analytics at the enterprise level. In this workshop, you will learn the basics of SQL and relational databases. You will also get hands-on exercises to write simple SQL queries against a mini-DuckDB database.
+
+------------------------------------------------------------------------
+
+### Slides
+
+-   [Intro to SQL](sql_intro_roma_rbac.pdf)
+
+### Code
+
+-   Notebook for SQL Intro (with DuckDB) ([![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/sql-roma-rbac-2022/blob/master/docs/SQL_Intro_DuckDB_short.ipynb))
+
+### Resources
+
+- [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql){target="_blank"} by programiz
+
+- [Introduction to Databases and SQL](https://www.programiz.com/sql/database-introduction){target="_blank"} by programiz
+
+- [Learning SQL Programming](https://www.linkedin.com/learning/learning-sql-programming){target="_blank"} by Scott Simpson on LinkedIn Learning (1h 27m).
+
+    *Note that LinkedIn Learning is not free for UofT students. However, one of the following options can get you free access to this course.*
+    
+    - *Apply for a free Toronto Public Library card, and login LinkedIn Learning via [the library site](https://www.torontopubliclibrary.ca/detail.jsp?R=EDB0187){target="_blank"}. (You can get Toronto Public Library's [Digital Access Card](https://www.torontopubliclibrary.ca/using-the-library/your-library-card/){target="_blank"} without visiting a library branch.)*
+    - *If you are a UofT graduate, you could register [here](https://my.alumni.utoronto.ca/linkedinlearning){target="_blank"} at UofT alumni site to get free access to LinkedIn Learning from until 2023/04/19.*
+
+- [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198){target="_blank"} at Udacity
+
+------------------------------------------------------------------------
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
