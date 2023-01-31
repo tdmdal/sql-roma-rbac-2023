@@ -12,7 +12,7 @@ SQL is a data query and management language for relational databases. A solid kn
 
 ### Code
 
--   Notebook for SQL Intro (with DuckDB) ([![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/sql-roma-rbac-2022/blob/master/docs/SQL_Intro_DuckDB_short.ipynb))
+-   Notebook for SQL Intro (with DuckDB) ([![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/sql-roma-rbac-2023/blob/master/docs/SQL_Intro_DuckDB_short.ipynb))
 
 ### Resources
 
